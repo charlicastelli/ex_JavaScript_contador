@@ -1,0 +1,28 @@
+body{
+    background: #FD714E;
+}
+header {
+    text-align: center;
+    color: #ffffff;
+    font: normal 20px Arial;
+}
+section {
+    background: #ffffff;
+    width: 500px;
+    height: auto;
+    color: black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 8px #163172;
+    padding: 16px;
+    margin: auto;
+    text-align: start;
+}
+div#result {
+    padding-top: 15px;
+}
+footer {
+    text-align: center;
+    color: #ffffff;
+    font: normal 16px Arial;
+    font-style: italic;
+}
